@@ -5,5 +5,11 @@ En este repositorio se analiza por medio de Tableau los datos personales de empl
 Los analistas de Recursos Humanos necesitan un dashboard interactivo y dinámico que les permita identificar puntos clave, y con base en ellos, optimizar la gestión del talento y fomentar un entorno laboral más inclusivo y diverso.
 ## PASOS GENERALES
 1. Importa la base de datos HRDataset.csv en Tableau. 
-2. Desarrolla un dashboard que incluya al menos tres gráficos de los vistos en clase, respondiendo a algunas de las ideas de análisis descritas anteriormente. 
+2. Desarrolla un dashboard que incluya al menos tres gráficos de los vistos en clase, respondiendo a algunas de las ideas de análisis descritas anteriormente.
+3. Establecer los KPI principales a ser medidos y utilizando la función "campo calculado" de tableau generalos y agregarlos como texto
+   - Recuento de empleados  
+   - Numero de bajas
+   - Porcentage de bajas
+   - Emmpleados activos
+   - Indice de permanencia
 ## CONCLUSIONES
