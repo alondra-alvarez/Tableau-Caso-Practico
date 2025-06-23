@@ -7,9 +7,9 @@ Los analistas de Recursos Humanos necesitan un dashboard interactivo y dinámico
 1. Importa la base de datos HRDataset.csv en Tableau. 
 2. Desarrolla un dashboard que incluya al menos tres gráficos de los vistos en clase, respondiendo a algunas de las ideas de análisis descritas anteriormente.
 3. Establecer los KPI principales a ser medidos y utilizando la función "campo calculado" de tableau generalos y agregarlos como texto
-   - Recuento de empleados  
-   - Numero de bajas
-   - Porcentage de bajas
-   - Emmpleados activos
-   - Indice de permanencia
+   - Empleados contratados (hires count)   
+   - Numero de bajas (Attrition count)
+   - Porcentage de bajas (Attrition rate)
+   - Emmpleados activos (Active employees)
+   - Indice de permanencia (Avg. retention (months)
 ## CONCLUSIONES
