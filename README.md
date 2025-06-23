@@ -22,7 +22,7 @@ Los analistas de Recursos Humanos necesitan un dashboard interactivo y dinámico
 
      
    - Bajas por genero (Atrition by gender)
-     ![Attrition by gender](https://github.com/user-attachments/assets/82eab61d-6e89-4432-bd30-3afa3d4d61e5)
+   - ![Attrition by gender](https://github.com/user-attachments/assets/82eab61d-6e89-4432-bd30-3afa3d4d61e5)
 
    - Bajas por departamento (Attrition by department)
      ![Attrition by department](https://github.com/user-attachments/assets/253959e2-a0e6-44a3-88da-e9e2d2b56a0a)
