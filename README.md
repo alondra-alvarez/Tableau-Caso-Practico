@@ -18,7 +18,7 @@ Los analistas de Recursos Humanos necesitan un dashboard interactivo y dinámico
 
      
    - **Comparativa de satisfaccion vs Desempeño (Satisfaction vs performance)**
-    ![satisfaction vs performance](https://github.com/user-attachments/assets/5623c0a6-fb9e-42a9-bf5b-9c34de15f914)
+      ![satisfaction vs performance](https://github.com/user-attachments/assets/5623c0a6-fb9e-42a9-bf5b-9c34de15f914)
 
      
    - **Bajas por genero (Atrition by gender)**
