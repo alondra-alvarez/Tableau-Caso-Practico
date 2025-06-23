@@ -30,10 +30,10 @@ Los analistas de Recursos Humanos necesitan un dashboard interactivo y dinámico
 
 5. Generar dos filtros uno por fecha y otro por departamento para una vista segmentada
 ## CONCLUSIONES
--Se observa un attrition rate del 33% a lo largo de los 12 años analizados (2006-2018) con un promedio de retencion de 9 meses
--Se observan 3 picos muy marcados de contrataciones a lo largo de los 12 años en (febrero,mayo y septiembre)
--de observa una mayor cantidad de bajas en mujeres que en hombres (60-44) respectivamente
--la mayoria de los empleados se clasifican en desempeño satisfactorio (fully meets) expectantions y con un desempeño (performance) de 3 a 5
+- Se observa un attrition rate del 33% a lo largo de los 12 años analizados (2006-2018) con un promedio de retencion de 9 meses
+- Se observan 3 picos muy marcados de contrataciones a lo largo de los 12 años en (febrero,mayo y septiembre)
+- De observa una mayor cantidad de bajas en mujeres que en hombres (60-44) respectivamente
+- La mayoria de los empleados se clasifican en desempeño satisfactorio (fully meets) expectantions y con un desempeño (performance) de 3 a 5
 - El departamento con mayores bajas es el de produccion 
 
 
